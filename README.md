@@ -5,6 +5,6 @@ All for free.
 
 | Element | Link |
 | ------- | ---- |
-| Colours | https://coolors.co/ |
-| Icons | https://www.flaticon.com/ |
+| Colours | [Coolors](https://coolors.co/)  |
+| Icons | [Flaticon](https://www.flaticon.com/) |
 
